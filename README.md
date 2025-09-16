@@ -1,6 +1,6 @@
 ### INF601 - Advanced Programming in Python
 ### Jeremy McKowski
-### Mini Project 
+### Mini Project 2
  
 # Project Title
  
