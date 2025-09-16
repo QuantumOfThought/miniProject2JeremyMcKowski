@@ -39,8 +39,10 @@ females_list = range(0,females)
 # plt.ylabel("Count")
 # plt.legend(["Male", "Female"])
 
+
 plt.bar(['M', 'F'], [males, females], align='center', color=['b', 'm'])
 plt.xlabel('Gender')
 plt.ylabel('Count')
 plt.title('Gender Distribution')
 plt.show()
+plt.savefig("./charts/gender_distribution.png")
