@@ -20,6 +20,9 @@ from traceback import print_tb
 # (20/20 points) There should be a README.md file in your project that explains what your project is, how to install the pip requirements, and how to execute the program. Please use the GitHub flavor of Markdown. Be thorough on the explanations.
 
 
+## You also need [Walmart Sales Data](https://github.com/QuantumOfThought/miniProject2JeremyMcKowski/blob/main/data/Walmart_sales.csv)
+
+
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
