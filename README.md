@@ -21,6 +21,7 @@ Run main.py, it will load the data and plot it.
 Please download the following data from github. 
 
 I used a kaggle dataset (below) and modifed it with random geolocation data. 
+* [Walmart Sales Data](https://github.com/QuantumOfThought/miniProject2JeremyMcKowski/blob/main/data/Walmart_sales.csv)
  
 ### Dependencies
  
@@ -48,4 +49,4 @@ Jeremy McKowski
 * [Geopandas Documentation](https://geopandas.org/en/stable/docs/user_guide/mapping.html)
 * [Jason Zeller](https://www.youtube.com/@profzeller)
 * [Claude](https://claude.ai/share/8d067276-03d9-48d6-986a-4adbd0faf1c0)
-* [Kaggle] (https://www.kaggle.com/code/msjahid/walmart-sales-exploration/input)
+* [Kaggle](https://www.kaggle.com/code/msjahid/walmart-sales-exploration/input)
