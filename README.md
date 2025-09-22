@@ -19,10 +19,14 @@ Run main.py, it will load the data and plot it.
 
 ## Getting Started
 Please download the following data from github. 
-
+The file uses the gerate data.py, however you do not need that py file to run this.
 I used a kaggle dataset (below) and modifed it with random geolocation data. 
+
+Download this data and place it in a folder called data. 
 * [Walmart Sales Data](https://github.com/QuantumOfThought/miniProject2JeremyMcKowski/blob/main/data/Walmart_sales.csv)
- 
+The program will also check for a data folder, 
+if you do not have one it will create the folder for you to place the data in.
+
 ### Dependencies
  
 Please install the pip requirements:
