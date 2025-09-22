@@ -9,10 +9,11 @@ Miniproject 2
 ## Description
  
 This program loads fictional Wal-Mart data and plots it on a US map.
-It then generates 3 charts of the top 10 states by total sales, 
-Avg weekly sales across stores, and avg temp vs. avg sales across stores.
-
-It also displays a map of locations of the stores.
+It then generates: 
+* Bar chart (Top 10 States by Sales)
+* Histogram (Sales Distribution)
+* Scatter plot (Temperature vs Sales)
+* It also displays a map of locations of the stores.
  
 ## How to use it
 Run main.py, it will load the data and plot it.
