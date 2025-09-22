@@ -18,16 +18,16 @@ It also displays a map of the locations of the stores.
 Run main.py, it will load the data and plot it.
 
 ## Getting Started
-Please download the following data from github. 
-I used a kaggle dataset (below) and modifed it with random geolocation data. 
 
-Download this data and place it in a folder called data. 
-* [Walmart Sales Data](https://github.com/QuantumOfThought/miniProject2JeremyMcKowski/blob/main/data/Walmart_sales.csv)
-The program will also check for a data folder, 
-if you do not have one it will create the folder for you to place the data in.
+The program will  check for a data folder, 
+if you do not have one it will create the folder for you to place the data in. (Data below)
 
 ### Dependencies
- 
+Please download the following data from github and place it in a folder called data.
+I used a kaggle dataset (below) and modifed it with random geolocation data. 
+
+* [Walmart Sales Data](https://github.com/QuantumOfThought/miniProject2JeremyMcKowski/blob/main/data/Walmart_sales.csv) 
+
 Please install the pip requirements:
 ```
 pip install -r requirements.txt
