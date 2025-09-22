@@ -19,7 +19,6 @@ Run main.py, it will load the data and plot it.
 
 ## Getting Started
 Please download the following data from github. 
-The file uses the gerate data.py, however you do not need that py file to run this.
 I used a kaggle dataset (below) and modifed it with random geolocation data. 
 
 Download this data and place it in a folder called data. 
