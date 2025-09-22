@@ -8,9 +8,19 @@ Miniproject 2
  
 ## Description
  
-This program will look up five stock tickers and will present the user with five graphs. Those graphs are automatically saved in the charts/ folder.
+This program loads fictional Wal-Mart data and plots it on a US map.
+It then generates 3 charts that top 10 states by total sales, 
+Avg weekly sales across stores, & avg temp vs avg sales across stores.
+
+It also displays a map of the locations of the stores.
  
+## How to use it
+Run main.py, it will load the data and plot it.
+
 ## Getting Started
+Please download the following data from github. 
+
+I used a kaggle dataset (below) and modifed it with random geolocation data. 
  
 ### Dependencies
  
@@ -35,6 +45,7 @@ Jeremy McKowski
 ## Acknowledgments
 
 * [Matplotlib Documentation](https://matplotlib.org/stable/users/index.html)
-* [yFinance Documentation](https://ranaroussi.github.io/yfinance/)
+* [Geopandas Documentation](https://geopandas.org/en/stable/docs/user_guide/mapping.html)
 * [Jason Zeller](https://www.youtube.com/@profzeller)
 * [Claude](https://claude.ai/share/8d067276-03d9-48d6-986a-4adbd0faf1c0)
+* [Kaggle] (https://www.kaggle.com/code/msjahid/walmart-sales-exploration/input)
