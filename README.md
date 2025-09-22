@@ -51,6 +51,7 @@ Jeremy McKowski
 
 * [Matplotlib Documentation](https://matplotlib.org/stable/users/index.html)
 * [Geopandas Documentation](https://geopandas.org/en/stable/docs/user_guide/mapping.html)
+* [Plotly](https://plotly.com/python/)
 * [Jason Zeller](https://www.youtube.com/@profzeller)
 * [Claude](https://claude.ai/share/8d067276-03d9-48d6-986a-4adbd0faf1c0)
 * [Kaggle](https://www.kaggle.com/code/msjahid/walmart-sales-exploration/input)
