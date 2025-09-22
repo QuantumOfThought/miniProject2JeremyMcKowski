@@ -33,6 +33,10 @@ import os
 if not os.path.exists('./charts'):
     os.makedirs('./charts')
 
+# Create data directory if it doesn't exist
+if not os.path.exists('./data'):
+    os.makedirs('./data')
+
 # Load the Walmart sales data with coordinates
 df = pd.read_csv("./data/Walmart_sales.csv")
 
