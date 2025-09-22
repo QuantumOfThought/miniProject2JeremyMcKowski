@@ -9,8 +9,8 @@ Miniproject 2
 ## Description
  
 This program loads fictional Wal-Mart data and plots it on a US map.
-It then generates 3 charts that top 10 states by total sales, 
-Avg weekly sales across stores, and avg temp vs avg sales across stores.
+It then generates 3 charts of the top 10 states by total sales, 
+Avg weekly sales across stores, and avg temp vs. avg sales across stores.
 
 It also displays a map of locations of the stores.
  
@@ -20,11 +20,11 @@ Run main.py, it will load the data and plot it.
 ## Getting Started
 
 The program will check for a data folder, 
-if you do not have one, it will create the folder for you to place the data in. (Data below)
+if you do not have one, it will create the folder for you to place the data in. (The Data is below)
 
 ### Dependencies
 Please download the following data from github and place it in a folder called data.
-I used a kaggle dataset (below) and modified it with random geolocation data. 
+I used a kaggle dataset and modified it with random geolocation data. 
 
 * [Walmart Sales Data](https://github.com/QuantumOfThought/miniProject2JeremyMcKowski/blob/main/data/Walmart_sales.csv) 
 
