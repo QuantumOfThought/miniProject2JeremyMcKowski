@@ -1,7 +1,7 @@
 ### INF601 - Advanced Programming in Python
 ### Jeremy McKowski
 ### Mini Project 2
-from traceback import print_tb
+
 
 # This project will be using Pandas dataframes. This isn't intended to be full blown data science project. The goal here is to come up with some question and then see what API or datasets you can use to get the information needed to answer that question. This will get you familar with working with datasets and asking questions, researching APIs and gathering datasets. If you get stuck here, please email me!
 #
@@ -28,6 +28,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 import os
+from traceback import print_tb
 
 # Create charts directory if it doesn't exist
 if not os.path.exists('./charts'):
