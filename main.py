@@ -53,6 +53,8 @@ store_summary = store_summary.reset_index()
 
 print(f"Mapping {len(store_summary)} Walmart stores across the US...")
 
+
+## Claude went overboard but I thought it was neat. 
 # Create the US map with store locations
 # This creates an interactive scatter plot on a map of the US
 fig = px.scatter_map(
